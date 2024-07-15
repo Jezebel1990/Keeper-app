@@ -22,4 +22,5 @@ Follow the steps below to set up the project locally:
    npm install
    npm run dev
    npx cypress open
+   npx cypress run
 
